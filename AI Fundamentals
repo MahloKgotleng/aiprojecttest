@@ -1,0 +1,57 @@
+index.html<!DOCTYPE html>
+<html>
+<head>
+    <title>My Developer Journey</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #222;
+            color: white;
+        }
+
+        section {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: white;
+            border-radius: 8px;
+        }
+
+        h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>My Developer Journey</h1>
+    <p>From HTML Basics to AI Web Applications</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>I am documenting my journey into web development and AI. This is my first deployed site.</p>
+</section>
+
+<section>
+    <h2>Current Focus</h2>
+    <p>Learning HTML, CSS, JavaScript and deployment workflows.</p>
+</section>
+
+<section>
+    <h2>Next Goals</h2>
+    <p>Build 3 live websites and integrate AI features.</p>
+</section>
+
+</body>
+</html>
